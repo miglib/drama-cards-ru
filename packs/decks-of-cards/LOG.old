@@ -1,0 +1,5 @@
+2024/03/04-22:15:35.088 2eac Delete type=3 #1
+2024/03/04-22:17:19.205 2fb4 Level-0 table #5: started
+2024/03/04-22:17:19.207 2fb4 Level-0 table #5: 24603 bytes OK
+2024/03/04-22:17:19.208 2fb4 Delete type=0 #3
+2024/03/04-22:17:19.208 2fb4 Manual compaction at level-0 from '!cards!1VSOnFobmR8Xwq6t' @ 72057594037927935 : 1 .. '!cards.cards!TddhCh2BMFcnzFum.zSF528Gl53rhJWdu' @ 0 : 0; will stop at (end)

@@ -1,0 +1,24 @@
+{
+  "id": "drama-cards-ru",
+  "title": "drama-cards-ru",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "url": "https://github.com/miglib/drama-cards-ru",
+  "packs": [
+    {
+      "name": "decks-of-cards",
+      "label": "decks of cards",
+      "path": "packs/decks-of-cards",
+      "type": "Cards",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
