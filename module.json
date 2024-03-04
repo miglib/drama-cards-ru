@@ -6,19 +6,23 @@
     "minimum": "11",
     "verified": "11"
   },
-  "url": "https://github.com/miglib/drama-cards-ru",
   "packs": [
     {
       "name": "decks-of-cards",
       "label": "decks of cards",
       "path": "packs/decks-of-cards",
       "type": "Cards",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     }
-  ]
+  ],
+  "url": "https://github.com/miglib/drama-cards-ru",
+  "manifest": "https://github.com/miglib/drama-cards-ru/releases/latest/download/module.json",
+  "download": "https://github.com/miglib/drama-cards-ru/releases/latest/download/module.zip",
+  "readme": "https://github.com/miglib/drama-cards-ru/blob/master/README.md",
+  "bugs": "https://github.com/miglib/drama-cards-ru/issues",
+  "description": "Колоды кард для замены вдохновения или дополнительного игрового атрибута. Колоды собраны на основе проекта из steam мастерской: https://steamcommunity.com/sharedfiles/filedetails/?id=2544983633"
 }
