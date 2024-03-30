@@ -1,7 +1,7 @@
 {
   "id": "drama-cards-ru",
   "title": "drama-cards-ru",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -24,5 +24,13 @@
   "download": "https://github.com/miglib/drama-cards-ru/releases/latest/download/module.zip",
   "readme": "https://github.com/miglib/drama-cards-ru/blob/master/README.md",
   "bugs": "https://github.com/miglib/drama-cards-ru/issues",
-  "description": "Колоды кард для замены вдохновения или дополнительного игрового атрибута. Колоды собраны на основе проекта из steam мастерской: https://steamcommunity.com/sharedfiles/filedetails/?id=2544983633"
+  "description": "Колоды кард для замены вдохновения или дополнительного игрового атрибута. Колоды собраны на основе проекта из steam мастерской: https://steamcommunity.com/sharedfiles/filedetails/?id=2544983633",
+  "relationships": {
+    "recommends": [
+      {
+        "id": "hand-mini-bar",
+        "type": "module"
+      }
+    ]
+  }
 }
