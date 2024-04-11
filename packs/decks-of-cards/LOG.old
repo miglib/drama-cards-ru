@@ -1,8 +1,22 @@
-2024/04/07-19:11:04.535 2ffc Recovering log #265
-2024/04/07-19:11:04.538 2ffc Delete type=0 #265
-2024/04/07-19:11:04.538 2ffc Delete type=3 #263
-2024/04/07-19:16:05.288 3d9c Level-0 table #270: started
-2024/04/07-19:16:05.288 3d9c Level-0 table #270: 0 bytes OK
-2024/04/07-19:16:05.289 3d9c Delete type=0 #268
-2024/04/07-19:16:05.289 3d9c Manual compaction at level-0 from '!cards!7O4smeDf7LChDcVc' @ 72057594037927935 : 1 .. '!folders!uyKjRX5ge653L5x5' @ 0 : 0; will stop at (end)
-2024/04/07-19:16:05.289 3d9c Manual compaction at level-1 from '!cards!7O4smeDf7LChDcVc' @ 72057594037927935 : 1 .. '!folders!uyKjRX5ge653L5x5' @ 0 : 0; will stop at (end)
+2024/04/07-22:29:32.517 4530 Recovering log #273
+2024/04/07-22:29:32.520 4530 Delete type=2 #5
+2024/04/07-22:29:32.520 4530 Delete type=0 #8
+2024/04/07-22:29:32.520 4530 Delete type=2 #194
+2024/04/07-22:29:32.520 4530 Delete type=0 #197
+2024/04/07-22:29:32.520 4530 Delete type=0 #272
+2024/04/07-22:29:32.520 4530 Delete type=0 #273
+2024/04/07-22:29:32.520 4530 Delete type=3 #6
+2024/04/07-22:29:32.520 4530 Delete type=3 #195
+2024/04/07-22:29:32.520 4530 Delete type=3 #271
+2024/04/07-22:31:52.792 30f0 Level-0 table #279: started
+2024/04/07-22:31:52.795 30f0 Level-0 table #279: 4618 bytes OK
+2024/04/07-22:31:52.797 30f0 Delete type=0 #277
+2024/04/07-22:31:52.797 30f0 Manual compaction at level-0 from '!cards!Vkb214hgxkuYfJc9' @ 72057594037927935 : 1 .. '!folders!uyKjRX5ge653L5x5' @ 0 : 0; will stop at (end)
+2024/04/07-22:31:52.798 30f0 Manual compaction at level-1 from '!cards!Vkb214hgxkuYfJc9' @ 72057594037927935 : 1 .. '!folders!uyKjRX5ge653L5x5' @ 0 : 0; will stop at '!cards.cards!hjmKwGRyxvPwgBAC.xq7Hs3XmHQBU07mv' @ 1301 : 0
+2024/04/07-22:31:52.798 30f0 Compacting 1@1 + 1@2 files
+2024/04/07-22:31:52.802 30f0 Generated table #280@1: 550 keys, 67472 bytes
+2024/04/07-22:31:52.802 30f0 Compacted 1@1 + 1@2 files => 67472 bytes
+2024/04/07-22:31:52.805 30f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/07-22:31:52.805 30f0 Delete type=2 #275
+2024/04/07-22:31:52.805 30f0 Delete type=2 #279
+2024/04/07-22:31:52.805 30f0 Manual compaction at level-1 from '!cards.cards!hjmKwGRyxvPwgBAC.xq7Hs3XmHQBU07mv' @ 1301 : 0 .. '!folders!uyKjRX5ge653L5x5' @ 0 : 0; will stop at (end)
