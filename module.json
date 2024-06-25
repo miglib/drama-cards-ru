@@ -1,10 +1,10 @@
 {
   "id": "drama-cards-ru",
   "title": "drama-cards-ru",
-  "version": "1.1.1",
+  "version": "2.1.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "packs": [
     {
@@ -14,8 +14,10 @@
       "type": "Cards",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
+        "PLAYER": "LIMITED",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OBSERVER",
+        "GAMEMASTER": "OWNER" 
       }
     }
   ],
